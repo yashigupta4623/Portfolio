@@ -1,0 +1,1 @@
+const Bounce = styled.div`animation:2s ${keyframes`${bounce}`} infinte`;
