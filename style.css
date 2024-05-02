@@ -23,6 +23,10 @@ canvas{
   z-index: -1; /* Bring the container to the front */
 }
 
+.centered-div {
+  display: inline-block;
+  text-align: center;
+}
 
 .h1{
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5); /* White shadow effect */
