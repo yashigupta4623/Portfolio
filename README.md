@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Normalize.css](https://necolas.github.io/normalize.css/) for cross-browser consistency.
 - [Font Awesome](https://fontawesome.com/) for icons.
 
-  The website is live at [https://your-username.github.io/portfolio-website](https://yashigupta4623.github.io/Portfolio/).
+  The website is live at [https://yashigupta4623.github.io/Portfolio/](https://yashigupta4623.github.io/Portfolio/).
 
 ---
 Happy coding!
